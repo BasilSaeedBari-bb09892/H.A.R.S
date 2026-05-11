@@ -124,7 +124,7 @@ The full electronics circuit — ESP32, buck converter, MOSFET gate drive, therm
 |---|---|---|---|---|---|
 | Oscilloscope (2-channel) | Electronics Lab | 8 hrs | Verifying PWM waveform to MOSFET gate; checking gate resistor damping; confirming thermistor ADC signal integrity | 2026-06-06 | 2026-06-22 |
 | Soldering Station | Electronics Lab | 12 hrs | Perfboard assembly of full electronics circuit; wire harnessing and connector crimping | 2026-06-06 | 2026-06-22 |
-| Prusa i3 MK3S+ | Makerspace | 20 hrs | Fabricating Venturi nozzle (PETG), spool tray (PETG), silica bed housing (PETG), and fan bulkhead adapters (PLA) | 2026-05-29 | 2026-06-10 |
+| 3d Printer | Engineering Workshop | 20 hrs | Fabricating Venturi nozzle (PETG), spool tray (PETG), silica bed housing (PETG), and fan bulkhead adapters (PLA) | 2026-05-29 | 2026-06-10 |
 | Digital Multimeter | Electronics Lab | 6 hrs | Buck converter output verification; MOSFET gate voltage measurement; voltage divider calibration | 2026-06-06 | 2026-06-22 |
 | Precision Gram Scale (±0.1g) | Makerspace / Science Lab | 2 hrs | Pre- and post-drying spool mass measurement to quantify extracted moisture | 2026-06-23 | 2026-07-07 |
 
