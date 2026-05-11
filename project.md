@@ -46,7 +46,7 @@
 
 | Full Name | Student ID | GitHub Username | Habib Email | Program | Year | Role |
 |---|---|---|---|---|---|---|
-| Basil Saeed Bari | HU-09892 | basilsaeedbari | bb09892@st.habib.edu.pk | CE | 3 | Lead |
+| Basil Saeed Bari | bb09892 | basilsaeedbari | bb09892@st.habib.edu.pk | CE | 3 | Lead |
 
 ---
 
@@ -68,7 +68,7 @@ DIY passive dry boxes — airtight containers with loose silica gel — are the 
 
 ## Domain & IEEE Alignment
 
-**Primary Domain:** *(select one by replacing `[ ]` with `[x]`)*
+**Primary Domain:**
 - [ ] Electrical Engineering
 - [ ] Computer Science
 - [x] Computer Engineering
