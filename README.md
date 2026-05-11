@@ -6,7 +6,6 @@
 **Lead:** Basil Saeed Bari · `bb09892@st.habib.edu.pk` · Habib University, CE Year 3  
 **License:** CERN-OHL-S v2 (Hardware) · MIT (Firmware)  
 **Status:** Pre-production — Design & Simulation Phase  
-**HOIISP Page:** *(pending approval)*
 
 ---
 
@@ -222,7 +221,7 @@ hars-filament-dryer/
 **Quick Start (Firmware):**
 ```bash
 # Clone the repository
-git clone https://github.com/basilsaeedbari/hars-filament-dryer.git
+git clone https://github.com/BasilSaeedBari-bb09892/H.A.R.S.git
 
 # Open the firmware in Arduino IDE
 # File → Open → firmware/esp32/hars_main/hars_main.ino
