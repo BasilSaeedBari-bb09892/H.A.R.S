@@ -1,5 +1,4 @@
-# H.A.R.S — Hygroscopic Aerodynamic Restoration System: An Open-Source, Ultra-Low-Cost Closed-Loop Active Convection Desiccant Chamber for 3D Printing Filament Restoration
-
+# H.A.R.S — Hygroscopic Aerodynamic Restoration System
 ---
 
 ## GitHub Repository
@@ -17,6 +16,7 @@
 ---
 
 ## Abstract
+An Open-Source, Ultra-Low-Cost Closed-Loop Active Convection Desiccant Chamber for 3D Printing Filament Restoration
 
 Polymer hydration is the primary point of failure in 3D printing in high-humidity environments. In Karachi, where ambient relative humidity regularly exceeds 70–90%, hygroscopic filaments such as PLA, PETG, and Nylon rapidly absorb atmospheric moisture. This absorbed water vaporises explosively inside the extruder nozzle at printing temperatures, causing stringing, bubbling, poor layer adhesion, and structurally compromised prints. The H.A.R.S (Hygroscopic Aerodynamic Restoration System) project addresses this problem by engineering an ultra-low-cost, open-source, closed-loop active desiccant chamber that actively strips moisture from saturated filament using four integrated physical mechanisms: forced convection via a 3D-printed Venturi nozzle (Bernoulli's Principle), bulk moisture removal via a copper cold coil (phase-change condensation), trace humidity adsorption via an indicating silica gel bed, and precise thermal regulation via a PID control loop running on an ESP32 microcontroller. The system is designed entirely around scrap, repurposed, and locally sourced Pakistani market components, targeting a total Bill of Materials cost under ₨5,500. A successful outcome is defined as dropping internal relative humidity below 15% within 30 minutes of activation while maintaining a stable chamber temperature of 45°C ± 2°C — well below the glass transition temperature of the polymers being dried. All hardware schematics, 3D-printable STL files, and firmware will be released as open-source for the wider Pakistani maker and engineering community. Future milestones will progressively downscale the electronics stack from an ESP32 development board to bare-metal AVR ICs and ultimately to a sub-₨200 analogue control circuit.
 
